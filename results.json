@@ -1,32 +1,12 @@
 [
   {
-    "url": "https://com/",
-    "isValid": false,
-    "timestamp": "2025-01-09T08:40:44.170Z"
-  },
-  {
-    "url": "https://Neeti.com/",
+    "url": "https://amazon.com/",
     "isValid": true,
-    "timestamp": "2025-01-09T08:40:48.831Z"
+    "timestamp": "2025-01-09T09:45:44.779Z"
   },
   {
     "url": "https://www.google.com/",
     "isValid": true,
-    "timestamp": "2025-01-09T08:40:53.235Z"
-  },
-  {
-    "url": "https://googlecom/",
-    "isValid": false,
-    "timestamp": "2025-01-09T08:40:57.062Z"
-  },
-  {
-    "url": "https://amazon.com/",
-    "isValid": true,
-    "timestamp": "2025-01-09T08:41:19.312Z"
-  },
-  {
-    "url": "https://flipkart/",
-    "isValid": false,
-    "timestamp": "2025-01-09T08:41:53.563Z"
+    "timestamp": "2025-01-09T09:46:02.773Z"
   }
 ]
